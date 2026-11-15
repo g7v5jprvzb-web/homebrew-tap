@@ -1,6 +1,6 @@
 cask "pdfsucher" do
-  version "1.3.4"
-  sha256 "13ef143f1bc487b0aa345892a7758ffb07ff361bd7f60c012b086631109ce69e"
+  version "1.3.5"
+  sha256 "74be277ceab3096d0385af632c95871276074b3b8cf83cae1adb02c8eae374dd"
 
   url "https://github.com/g7v5jprvzb-web/pdfsucher/releases/download/v#{version}/PDFSucher-#{version}.zip"
   name "PDFSucher"
